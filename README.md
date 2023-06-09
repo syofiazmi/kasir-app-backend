@@ -10,6 +10,9 @@ Aplikasi Kasir adalah aplikasi kasir online untuk melakukan daftar makanan, minu
 - JSON Server
 - Cyclic
 
+## Endpoint
+https://lucky-bear-threads.cyclic.app
+
 ## SETUP DEPLOYMENT ENV
 
 Cara menjalankan backend:
