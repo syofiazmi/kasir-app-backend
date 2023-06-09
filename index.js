@@ -13,6 +13,8 @@ server.use(router)
 
 const PORT = 8000
 
+console.info(process.env)
+
 server.listen(PORT, () => {
     console.log(`JSON Server is running on http://localhost:${PORT}`)
 })

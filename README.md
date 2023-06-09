@@ -1,4 +1,4 @@
-# Kasir App
+# Kasir App - Backend
 
 <img src='./kasir-app.png' alt='Tampilan Kasir App' />
 
@@ -7,16 +7,10 @@
 Aplikasi Kasir adalah aplikasi kasir online untuk melakukan daftar makanan, minuman atau makanan ringan yang dipesan pelanggan.
 
 ## Teknologi
-- React Js
 - JSON Server
+- Cyclic
 
-## SETUP
-
-Cara menjalankan frontend:
-- Masuk ke direktori frontend
-- Jalankan perintah di bawah ini di terminal
-
-`npm start`
+## SETUP DEPLOYMENT ENV
 
 Cara menjalankan backend:
 - Masuk direktori backend
@@ -26,6 +20,6 @@ Cara menjalankan backend:
 
 - Jalankan perintah di bawah ini di terminal
 
-`json-server --watch db.json --port=3004`
+`json-server --watch db.json --port=8000`
 
 
